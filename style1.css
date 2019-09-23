@@ -1,0 +1,8 @@
+h1 {
+    color: red;
+}
+/* All <a> elements. */
+a {
+  color: red;
+}
+a {font-size: 1.5em;}
